@@ -1,0 +1,11 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+# Librerías y código de sherpa-onnx: los descarga el workflow en cada compilación
+app/src/main/jniLibs/
+app/src/main/java/com/k2fsa/
