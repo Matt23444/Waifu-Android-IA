@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.waifu.android"
-    compileSdk = 34
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.waifu.android"
