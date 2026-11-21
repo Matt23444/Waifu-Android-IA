@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Zona segura del icono adaptable: círculo central de 66dp sobre lienzo de 108dp -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Pelo de atrás -->
+    <path
+        android:fillColor="#FF5B3A8E"
+        android:pathData="M54,22 C36,22 28,36 28,54 C28,68 31,78 36,84 L72,84 C77,78 80,68 80,54 C80,36 72,22 54,22z" />
+
+    <!-- Cara -->
+    <path
+        android:fillColor="#FFFFE0CC"
+        android:pathData="M54,30 C42,30 34,39 34,52 C34,66 43,77 54,77 C65,77 74,66 74,52 C74,39 66,30 54,30z" />
+
+    <!-- Flequillo -->
+    <path
+        android:fillColor="#FF6D46A8"
+        android:pathData="M31,52 C30,34 40,24 54,25 C68,24 78,34 77,52 C73,44 66,40 62,38 C60,42 57,44 54,44 C51,44 48,42 46,38 C42,40 35,44 31,52z" />
+
+    <!-- Ojo izquierdo -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M39.5,57 a5.2,6.2 0 1,0 10.4,0 a5.2,6.2 0 1,0 -10.4,0z" />
+    <path
+        android:fillColor="#FF7A4FD6"
+        android:pathData="M41.2,57.4 a3.5,4.2 0 1,0 7,0 a3.5,4.2 0 1,0 -7,0z" />
+    <path
+        android:fillColor="#FF1E1B2E"
+        android:pathData="M43,57.6 a1.7,2.2 0 1,0 3.4,0 a1.7,2.2 0 1,0 -3.4,0z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M43.6,55.2 a1,1.1 0 1,0 2,0 a1,1.1 0 1,0 -2,0z" />
+
+    <!-- Ojo derecho -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M58.1,57 a5.2,6.2 0 1,0 10.4,0 a5.2,6.2 0 1,0 -10.4,0z" />
+    <path
+        android:fillColor="#FF7A4FD6"
+        android:pathData="M59.8,57.4 a3.5,4.2 0 1,0 7,0 a3.5,4.2 0 1,0 -7,0z" />
+    <path
+        android:fillColor="#FF1E1B2E"
+        android:pathData="M61.6,57.6 a1.7,2.2 0 1,0 3.4,0 a1.7,2.2 0 1,0 -3.4,0z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M62.2,55.2 a1,1.1 0 1,0 2,0 a1,1.1 0 1,0 -2,0z" />
+
+    <!-- Mejillas -->
+    <path
+        android:fillColor="#66FF7F9E"
+        android:pathData="M35.5,66 a4,2.6 0 1,0 8,0 a4,2.6 0 1,0 -8,0z" />
+    <path
+        android:fillColor="#66FF7F9E"
+        android:pathData="M64.5,66 a4,2.6 0 1,0 8,0 a4,2.6 0 1,0 -8,0z" />
+
+    <!-- Sonrisa -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF8B2C3C"
+        android:strokeWidth="1.4"
+        android:strokeLineCap="round"
+        android:pathData="M49.5,68.5 Q54,73 58.5,68.5" />
+
+    <!-- Moño / lazo -->
+    <path
+        android:fillColor="#FFFF7FB0"
+        android:pathData="M66,27 L76,21 L75,33 Z" />
+    <path
+        android:fillColor="#FFFF7FB0"
+        android:pathData="M66,27 L58,20 L57,32 Z" />
+    <path
+        android:fillColor="#FFE0568F"
+        android:pathData="M62,27 a3.2,3.2 0 1,0 6.4,0 a3.2,3.2 0 1,0 -6.4,0z" />
+</vector>
